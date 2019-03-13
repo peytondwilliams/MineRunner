@@ -1,7 +1,10 @@
 # depslib dependency file v1.0
-1552450346 source:c:\users\peyto\game test\gridgame\main.c
+1552504465 source:c:\users\peyto\game test\gridgame\main.c
 	"sl.h"
 	<stdbool.h>
+	<stdio.h>
+	<assert.h>
+	<stdlib.h>
 
 1478976720 c:\users\peyto\game test\gridgame\include\sl.h
 
